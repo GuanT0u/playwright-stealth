@@ -1,0 +1,51 @@
+# === 隐私 / 凭证 ===
+autoCanvasThing.md
+
+# === Playwright MCP 运行时 ===
+.playwright-mcp/
+
+# === Claude Code 本地配置 ===
+.claude/
+
+# === IDE / 编辑器 ===
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# === 操作系统 ===
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# === 依赖 ===
+node_modules/
+package-lock.json
+**/packages/
+**/bin/
+**/obj/
+
+# === 缓存网页 / 下载资料 ===
+Doc/
+*_files/
+
+# === 个人课程作业 / 不分享 ===
+AUG25/
+English/
+friend/
+JAN26/
+JUN25/
+JUN26/
+LifeShit/
+
+# === 二进制大文件 / 数据库 ===
+MySQL*/
+*.下载
+
+# === 临时文件 ===
+*.tmp
+*.temp
+~$*.docx
+~$*.xlsx
